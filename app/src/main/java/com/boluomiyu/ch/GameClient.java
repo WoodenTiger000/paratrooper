@@ -13,7 +13,7 @@ import com.boluomiyu.miyueng.ch.R;
 
 /**
  * 类 GameClient
- * 描述：游戏客户端
+ * 描述：游戏客户端，这是内置的实例游戏
  * $菠萝蜜语$ 荣誉出品  2013 版权所有.
  * @author 邹彦虎    2013-2-16
  * @version 1.0
