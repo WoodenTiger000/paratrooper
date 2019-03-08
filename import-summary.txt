@@ -1,0 +1,178 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\libraries\
+* .idea\libraries\android_support_v4.xml
+* .idea\libraries\dexedLibs.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\scopes\
+* .idea\scopes\scope_settings.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* Paratrooper.iml
+* out\
+* out\production\
+* out\production\Paratrooper\
+* out\production\Paratrooper\Paratrooper.apk
+* out\production\Paratrooper\Paratrooper.unaligned.apk
+* out\production\Paratrooper\com\
+* out\production\Paratrooper\com\boluomiyu\
+* out\production\Paratrooper\com\boluomiyu\ch\
+* out\production\Paratrooper\com\boluomiyu\ch\GameClient.class
+* out\production\Paratrooper\com\boluomiyu\ch\RunData.class
+* out\production\Paratrooper\com\boluomiyu\ch\effect\
+* out\production\Paratrooper\com\boluomiyu\ch\effect\Explore.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\
+* out\production\Paratrooper\com\boluomiyu\ch\menu\AboutMenu.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\BattleMenu$1.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\BattleMenu$2.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\BattleMenu$3.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\BattleMenu$4.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\BattleMenu$5.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\BattleMenu$6.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\BattleMenu.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\ConfirmMenu$1.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\ConfirmMenu.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\MainMenu$1.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\MainMenu$2.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\MainMenu$3.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\MainMenu$4.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\MainMenu$5.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\MainMenu$6.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\MainMenu.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\PauseMenu$1.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\PauseMenu$2.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\PauseMenu$3.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\PauseMenu.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\PersonnalMenu.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\SettingMenu.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\StartupMenu$1.class
+* out\production\Paratrooper\com\boluomiyu\ch\menu\StartupMenu.class
+* out\production\Paratrooper\com\boluomiyu\ch\unit\
+* out\production\Paratrooper\com\boluomiyu\ch\unit\Battleplane.class
+* out\production\Paratrooper\com\boluomiyu\ch\unit\Blade.class
+* out\production\Paratrooper\com\boluomiyu\ch\unit\BladeItem.class
+* out\production\Paratrooper\com\boluomiyu\ch\unit\MainGun.class
+* out\production\Paratrooper\com\boluomiyu\ch\unit\Missile.class
+* out\production\Paratrooper\com\boluomiyu\ch\unit\Monster1.class
+* out\production\Paratrooper\com\boluomiyu\ch\unit\Sk1Missile.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\
+* out\production\Paratrooper\com\boluomiyu\miyueng\GameContext$1.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\GameContext.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\MainCanvas.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\Scence.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\ch\
+* out\production\Paratrooper\com\boluomiyu\miyueng\ch\BuildConfig.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\ch\R$attr.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\ch\R$drawable.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\ch\R$id.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\ch\R$layout.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\ch\R$string.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\ch\R$style.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\ch\R.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\clip\
+* out\production\Paratrooper\com\boluomiyu\miyueng\clip\GameMovie.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\clip\MovieClip.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\clip\RotatedGameMovie.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\clip\SquenceGameMovie.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\event\
+* out\production\Paratrooper\com\boluomiyu\miyueng\event\EventAdapter.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\event\EventHandler.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\event\EventHandlerCenter.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\event\EventListener.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\event\GameViewClearEventHandler.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\event\GameViewHideEventHandler.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\event\GameViewShowEventHandler.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\event\SpriteCreateEventHandler.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\event\TouchEventHandler.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\exception\
+* out\production\Paratrooper\com\boluomiyu\miyueng\exception\EventException.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\exception\InitSpritePoolFail.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\resource\
+* out\production\Paratrooper\com\boluomiyu\miyueng\resource\ImageManager.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\resource\PlayBook.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\resource\PlayBookManager.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\resource\Sound.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\resource\SoundList.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\resource\SoundManager.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\sprite\
+* out\production\Paratrooper\com\boluomiyu\miyueng\sprite\MoveMode.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\sprite\Sprite.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\sprite\SpriteComparater.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\sprite\SpriteFactory2.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\sprite\moveMode\
+* out\production\Paratrooper\com\boluomiyu\miyueng\sprite\moveMode\MoveMode.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\test\
+* out\production\Paratrooper\com\boluomiyu\miyueng\test\BladeTest.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\util\
+* out\production\Paratrooper\com\boluomiyu\miyueng\util\HWMath.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\util\HitTestUtil.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\util\Logger.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\util\RenderUtil.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\util\StringUtil.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\view\
+* out\production\Paratrooper\com\boluomiyu\miyueng\view\CDGameButton.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\view\EventListener.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\view\GameView.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\view\IconButton.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\view\ImageView.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\view\Panel.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\view\PercentImageView.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\view\TextButton.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\view\TextView.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\view\ToggleButton.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\view\ViewManager.class
+* out\production\Paratrooper\com\boluomiyu\miyueng\view\anim\
+* out\production\Paratrooper\com\boluomiyu\miyueng\view\anim\ViewAnimation.class
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

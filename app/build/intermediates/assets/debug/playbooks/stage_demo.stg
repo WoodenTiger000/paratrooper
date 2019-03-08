@@ -1,0 +1,51 @@
+######################################
+#		改剧本由地图生成程序自动生成	 #
+#		地图生成程序由flash编写		 #
+######################################	
+bg     --0.0--images/bg/battle.jpg
+stop   --0.0--
+curtain--0.0--关卡1_1
+curtain--0.0--准备
+curtain--0.0--开始
+message--0	--开始游戏
+start  --0.0--
+
+#配置
+config --0.0--{unitbase:com.boluomiyu.ch.unit, width:854, height:480}
+#精灵池
+spritepool--0.0--{preloadSprite:MainGun_1^Battleplane_5^Missile_50^Monster1_10}
+#主炮
+create --0.0--{class:MainGun, team:1, name:maingun, x:100, y:300, level:1, HP:100,  MP:60, EXP:100, maxHP:100, maxMP:60, maxEXP:100}
+
+#战机
+create --5--{class:Monster1, team:2, x:800,  y:300, hp:100, level:1}
+create --0.1--{class:Monster1, team:2, x:900,  y:250, hp:50, level:1}
+create --0.1--{class:Battleplane, team:2, x:800,  y:40, hp:2, level:1}
+create --0.1--{class:Battleplane, team:2, x:1000, y:20, hp:1, level:1}
+create --0.1--{class:Battleplane, team:2, x:900,  y:60, hp:100, level:1}
+create --0.5--{class:Battleplane, team:2, x:1000,  y:200, hp:1, level:1}
+create --0.5--{class:Battleplane, team:2, x:1000,  y:200, hp:1, level:1}
+create --0.5--{class:Battleplane, team:2, x:1000,  y:200, hp:1, level:1}
+create --0.5--{class:Battleplane, team:2, x:1000,  y:200, hp:1, level:1}
+create --0.5--{class:Battleplane, team:2, x:1000,  y:200, hp:1, level:1}
+create --0.5--{class:Battleplane, team:2, x:1000,  y:200, hp:1, level:1}
+create --0.5--{class:Battleplane, team:2, x:1000,  y:200, hp:1, level:1}
+create --3--{class:Battleplane, team:2, x:1000,  y:200, hp:1, level:1}
+create --3--{class:Battleplane, team:2, x:1000,  y:200, hp:1, level:1}
+create --3--{class:Battleplane, team:2, x:1000,  y:200, hp:1, level:1}
+create --3--{class:Battleplane, team:2, x:1000,  y:200, hp:1, level:1}
+create --3--{class:Battleplane, team:2, x:1000,  y:200, hp:1, level:1}
+create --4--{class:Battleplane, team:2, x:1000,  y:200, hp:1, level:1}
+create --5--{class:Battleplane, team:2, x:1000,  y:200, hp:1, level:1}
+create --6--{class:Battleplane, team:2, x:1000,  y:200, hp:1, level:1}
+create --7--{class:Battleplane, team:2, x:1000,  y:200, hp:1, level:1}
+create --5--{class:Monster1, team:2, x:800,  y:300, hp:100, level:1}
+create --0.1--{class:Monster1, team:2, x:900,  y:250, hp:50, level:1}
+create --5--{class:Monster1, team:2, x:800,  y:300, hp:100, level:1}
+create --0.1--{class:Monster1, team:2, x:900,  y:250, hp:50, level:1}
+
+
+curtain	--2--	公告信息
+message	--4--	剧本执行结束
+
+

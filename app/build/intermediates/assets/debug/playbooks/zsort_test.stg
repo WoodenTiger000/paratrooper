@@ -1,0 +1,29 @@
+######################################
+#		改剧本由地图生成程序自动生成	 #
+#		地图生成程序由flash编写		 #
+######################################	
+bg     --0.0--images/bg/battle.jpg
+
+#配置
+config --0.0--{unitbase:com.boluomiyu.ch.unit, width:854, height:480}
+#精灵池
+spritepool--0.0--{preloadSprite:MainGun_1^Battleplane_5^Missile_50^Monster1_10}
+#主炮
+create --0.0--{class:MainGun, team:1, name:maingun, x:100, y:300, level:1, HP:100,  MP:60, EXP:100, maxHP:100, maxMP:60, maxEXP:100}
+
+stop   --0.3--
+curtain--1--关卡zsort>z轴排序测试
+curtain--1--准备
+curtain--1--~开始游戏  !~
+curtain--0.0--curtain_close
+start  --0.0--
+
+
+#怪兽
+create --0.1--{class:Monster1, team:2, x:400, y:300, hp:100, level:1}
+create --0.1--{class:WomenGuiZi, team:2, x:400, y:280, hp:50, level:1}
+
+curtain	--2--	公告信息
+message	--4--	剧本执行结束
+
+

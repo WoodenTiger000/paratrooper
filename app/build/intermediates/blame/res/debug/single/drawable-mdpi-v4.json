@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\workspace\\android\\Paratrooper1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\android\\Paratrooper1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\android\\Paratrooper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\android\\Paratrooper\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
