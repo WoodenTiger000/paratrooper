@@ -1,2 +1,2 @@
 # paratrooper
-This is a demo project for miyuengine.
+安卓游戏开发引擎，实现Sprite，UI等
